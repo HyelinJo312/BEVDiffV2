@@ -1,6 +1,6 @@
 <div align="center">
 <h2> BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising</br>with Ground-Truth Guidance</h2> 
-
+<h2> BEVDiffuser E2E Version
 **CVPR 2025 Highlight**
 
 <a href="https://arxiv.org/pdf/2502.19694"><img src='https://img.shields.io/badge/arXiv-BEVDiffuser-red' alt='Paper PDF'></a>
